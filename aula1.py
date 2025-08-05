@@ -1,3 +1,4 @@
+\\\\\\\
 import pandas as pd
 
 # Dados
@@ -14,7 +15,6 @@ dados = {
         'Engenheiro Eletrônico'
     ]
 }
-
 # Criar o DataFrame
 df = pd.DataFrame(dados)
 
